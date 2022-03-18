@@ -1,0 +1,33 @@
+.center {
+   justify-content: center;
+   align-items: center;
+   text-align:center;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color:black;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+    
+}
+
+.s-search {
+    text-align:center;
+}
+
+td {
+    background-color:rgb(126, 229, 218);
+    text-align:center;
+}
+
+form{
+  
+}
